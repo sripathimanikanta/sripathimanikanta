@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name: Mani
 
+I'm passionate developer with hands-on approach and Love to Build Stuff
 <!--
 **sripathimanikanta/sripathimanikanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
