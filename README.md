@@ -3,7 +3,7 @@
 I'm passionate developer with hands-on approach and Love to Build Stuff. Currently in my final year of undergrad at A.V.College(BSc Computer Science). I am Passionate about Web Dev.
 
 - 🌍 I'm from INDIA and lives in INDIA
-- 🔭 I’m currently working on Question Everything (website)
+- 🔭 I’m currently working on [Question Everything](https://curioquesevery.web.app/) (website) 
 - 🌱 I’m currently learning React, Next.js and HTMX
 - 📫 How to reach me: manikantasripathi576@gmail.com
 - 💼 Any freelance work? do reach, email :)
