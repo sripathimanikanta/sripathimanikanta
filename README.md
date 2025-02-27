@@ -2,7 +2,7 @@
 
 ![](https://github.com/sripathimanikanta/sripathimanikanta/blob/main/ilovecodingandanime.gif)
 
-![](https://komarev.com/ghpvc/?username=sripathimanikantae&style=flat-square)
+![](https://komarev.com/ghpvc/?username=sripathimanikanta&style=flat-square)
 
 I'm passionate developer with hands-on approach and Love to Build Stuff. Finally, Completed my undergrand in BSc(Computer Science). I am Passionate in Web Dev and many more.
 
