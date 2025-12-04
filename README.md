@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sripathimanikanta&style=flat-square)
 
-I'm passionate developer with hands-on approach and Love to Build Stuff. Finally, Completed my undergrand in BSc(Computer Science). I am Passionate in Web Dev and many more.
+Physics • Math • CS educator & animator — I explain complex STEM with art, animation & music
 
 - 🌍 I'm from INDIA and lives in INDIA
 - 🔭 I’m currently working on [Question Everything](https://curioquesevery.web.app/) (Website)
