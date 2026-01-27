@@ -8,7 +8,8 @@ Physics • Math • CS educator & animator — I explain complex STEM with art,
 
 - 🌍 I'm from INDIA and lives in INDIA
 - 🔭 I’m currently working on [Question Everything](https://curioquesevery.web.app/) (Website)
-- 👨‍🏫 To Learn from me, read my blogs [ItsManiBlog](https://sripathimanikanta.github.io/itsmaniblog/) (Blog) 
+- 👨‍🏫 To Learn from me, read my blogs [ItsManiBlog](https://sripathimanikanta.github.io/itsmaniblog/) (Blog)
+- My Portfolio website, Version V1.0 [Portfolio-V1](https://sripathimanikanta.github.io/mani-portfolio-v1/) (Portfolio)
 - 🌱 I’m currently learning React, Next.js and HTMX
 - 📫 How to reach me: manikantasripathi576@gmail.com
 - 💼 Any freelance work? do reach, email :)
