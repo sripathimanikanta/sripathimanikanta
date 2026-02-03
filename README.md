@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sripathimanikanta&style=flat-square)
 
-Physics • Math • CS educator & animator — I explain complex STEM with art, animation & music
+Founder @ManiDeconstructs(QuestionEverything) | Educator, Animator, Coder — I explain complex STEM with art, animation & music.
 
 - 🌍 I'm from INDIA and lives in INDIA
 - 🔭 I’m currently working on [Question Everything](https://curioquesevery.web.app/) (Website)
