@@ -11,6 +11,7 @@ Founder @ManiDeconstructs(QuestionEverything) | Educator, Animator, Coder — I 
 - 👨‍🏫 To Learn from me, read my blogs [ItsManiBlog](https://sripathimanikanta.github.io/itsmaniblog/) (Blog)
 - My Portfolio website, Version V1.0 [Portfolio-V1](https://sripathimanikanta.github.io/mani-portfolio-v1/) (Portfolio)
 - My New Manim website, where i teach and learn [Manim with Mani](https://sripathimanikanta.github.io/ManimWithMani/)(ManimMani)
+- Just a Sticky Note, [What-I-Want-Create](https://sripathimanikanta.github.io/what-i-want-to-create/)
 - 🌱 I’m currently learning React, Next.js and HTMX
 - 📫 How to reach me: manikantasripathi576@gmail.com
 - 💼 Any freelance work? do reach, email :)
