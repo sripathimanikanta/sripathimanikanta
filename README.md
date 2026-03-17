@@ -7,12 +7,15 @@
 Founder @ManiDeconstructs(QuestionEverything) | Educator, Animator, Coder — I explain complex STEM with art, animation & music.
 
 - 🌍 I'm from INDIA and lives in INDIA
-- 🔭 I’m currently working on [Question Everything](https://curioquesevery.web.app/) (Website)
-- 👨‍🏫 To Learn from me, read my blogs [ItsManiBlog](https://sripathimanikanta.github.io/itsmaniblog/) (Blog)
-- My Portfolio website, Version V1.0 [Portfolio-V1](https://sripathimanikanta.github.io/mani-portfolio-v1/) (Portfolio)
-- My New Manim website, where i teach and learn [Manim with Mani](https://sripathimanikanta.github.io/ManimWithMani/)(ManimMani)
-- My Newest Portfolio Website, Version V2.0 [Portfolio-V2](https://sripathimanikanta.github.io/mani-portfolio-v2/)
-- Just a Sticky Note, [What-I-Want-Create](https://sripathimanikanta.github.io/what-i-want-to-create/)
+- WEBSITES
+- 🔭 SUBJECTS -  [Question Everything](https://curioquesevery.web.app/) (Website)
+- 👨‍🏫 BLOG - [ItsManiBlog](https://sripathimanikanta.github.io/itsmaniblog/) (Blog)
+- Portfolio V1.0 -  [Portfolio-V1](https://sripathimanikanta.github.io/mani-portfolio-v1/) (Portfolio)
+- MAth anNIMation -  [Manim with Mani](https://sripathimanikanta.github.io/ManimWithMani/)(ManimMani)
+- Portfolio V2.0 - [Portfolio-V2](https://sripathimanikanta.github.io/mani-portfolio-v2/)
+- Sticky Note, [What-I-Want-Create](https://sripathimanikanta.github.io/what-i-want-to-create/)
+-  APPS
+-  Money Manager - [NvoicZ](https://sripathimanikanta.github.io/NvoicZWebsite/)
 - 🌱 I’m currently learning React, Next.js and HTMX
 - 📫 How to reach me: manikantasripathi576@gmail.com
 - 💼 Any freelance work? do reach, email :)
